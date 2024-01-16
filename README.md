@@ -19,8 +19,7 @@ The dataset used in this project is sourced from 'diabetes_data.csv'. It contain
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
-   cd diabetes-prediction
+   https://github.com/abhinavv0111/diabetes_prediction_by-using-support-vector-classifier/blob/main/README.md
 
 Run the Jupyter notebook or Python script:
 bash
